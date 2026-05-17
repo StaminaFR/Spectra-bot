@@ -1,16 +1,12 @@
-
 {
-  "name": "spectra-omega",
-  "version": "5.0.0",
+  "name": "spectra-bot",
+  "version": "1.0.0",
+  "description": "Spectra Phasmophobia Bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "discord.js": "^14.15.3",
-    "express": "^4.19.2",
-    "socket.io": "^4.7.5",
-    "dotenv": "^16.4.5",
-    "axios": "^1.7.2"
+    "discord.js": "^14.15.3"
   }
 }
